@@ -1,5 +1,5 @@
 # 10 AI
-Velkommen til den sidste øvelse og i dag skal vi lave vores egen chatbot på OpenAI's API. Få din gruppes API key af en af os. Husk ikke at spamme den med spørgsmål, da vi kun har et begrænset antal credits. 
+Velkommen til dagens øvelse, hvor vi skal lave vores egen chatbot på OpenAI's API. Få din gruppes API key af en af os. Husk ikke at spamme den med spørgsmål, da vi kun har et begrænset antal credits. 
 
 ## Opsætning
 Start med at oprette et nyt react-native projekt med expo-cli. 
